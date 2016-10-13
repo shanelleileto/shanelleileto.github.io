@@ -7,13 +7,18 @@ body {
 
 p {
     background-color: black;
-    color: white
-    text-align: center;
-    font-family: 'Raleway', sans-serif;
+    color: #ffffff;
+    font-family: "Lucida Sans Unicode", sans-serif;
     font-size: 15px;
-    font-weight: 500;
     line-height: 32px;
+    font-weight: 500;
+    line-height: 72px;
     margin: 0 0 24px;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
 }
 
 h1 {
@@ -27,6 +32,13 @@ h1 {
     text-transform: uppercase;
 }
 
+.boxed {
+  border: 3px white ;
+}
+
+
+
+
 
 h2 { color: #ffffff; font-family: 'Raleway',sans-serif; font-size: 30px; font-weight: 800; line-height: 36px; margin: 0 0 24px; text-align: center; }
 
@@ -37,3 +49,4 @@ a { color: #c8c8c8; text-decoration: underline; }
 
 
 a:hover { color: #1c1c1c; text-decoration: underline; }
+ 
